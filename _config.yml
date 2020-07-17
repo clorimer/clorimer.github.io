@@ -1,4 +1,4 @@
-remote-theme: nrandecker/particle
+remote-theme: https://github.com/nrandecker/particle.git
 
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
